@@ -1,5 +1,6 @@
 import React from "react";
 import "./styles.css";
+import WeatherData from "./WeatherData"
 
 export default function App() {
   return (
