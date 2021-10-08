@@ -26,4 +26,4 @@ const weatherData = [
     },
 ];
 
-export default array;
+export default weatherData;
