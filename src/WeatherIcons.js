@@ -1,6 +1,5 @@
 import React from "react";
 
-
 export default function WeatherIcons(props) {
     return (
         <div className="weather">
