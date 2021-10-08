@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-WeatherIcons/static/css/main.f35f9068.chunk.css",
-    "main.js": "/React-WeatherIcons/static/js/main.e8e43d35.chunk.js",
-    "main.js.map": "/React-WeatherIcons/static/js/main.e8e43d35.chunk.js.map",
+    "main.js": "/React-WeatherIcons/static/js/main.e227c026.chunk.js",
+    "main.js.map": "/React-WeatherIcons/static/js/main.e227c026.chunk.js.map",
     "runtime-main.js": "/React-WeatherIcons/static/js/runtime-main.0bf355dd.js",
     "runtime-main.js.map": "/React-WeatherIcons/static/js/runtime-main.0bf355dd.js.map",
     "static/js/2.ea1dabc1.chunk.js": "/React-WeatherIcons/static/js/2.ea1dabc1.chunk.js",
     "static/js/2.ea1dabc1.chunk.js.map": "/React-WeatherIcons/static/js/2.ea1dabc1.chunk.js.map",
     "index.html": "/React-WeatherIcons/index.html",
-    "precache-manifest.3b0ebef6b838d4fd9b75739985fd0d98.js": "/React-WeatherIcons/precache-manifest.3b0ebef6b838d4fd9b75739985fd0d98.js",
+    "precache-manifest.89f38f27c808d52deedcc4848d574e99.js": "/React-WeatherIcons/precache-manifest.89f38f27c808d52deedcc4848d574e99.js",
     "service-worker.js": "/React-WeatherIcons/service-worker.js",
     "static/css/main.f35f9068.chunk.css.map": "/React-WeatherIcons/static/css/main.f35f9068.chunk.css.map",
     "static/js/2.ea1dabc1.chunk.js.LICENSE.txt": "/React-WeatherIcons/static/js/2.ea1dabc1.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0bf355dd.js",
     "static/js/2.ea1dabc1.chunk.js",
     "static/css/main.f35f9068.chunk.css",
-    "static/js/main.e8e43d35.chunk.js"
+    "static/js/main.e227c026.chunk.js"
   ]
 }
