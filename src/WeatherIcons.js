@@ -1,5 +1,5 @@
 import React from "react";
-import data from "./WeatherData.js";
+
 
 export default function WeatherIcons(props) {
     return (
